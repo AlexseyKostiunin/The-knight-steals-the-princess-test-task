@@ -1,0 +1,548 @@
+fileFormatVersion: 2
+guid: a8c92d715a37da447956eef2efc3d128
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1974121124027092057
+    second: knight_walk_0
+  - first:
+      213: -4978649567278197359
+    second: knight_walk_1
+  - first:
+      213: -5490388075020727693
+    second: knight_walk_2
+  - first:
+      213: 5704660131085122057
+    second: knight_walk_3
+  - first:
+      213: -1602077638500843142
+    second: knight_walk_4
+  - first:
+      213: 4658721662576087309
+    second: knight_walk_5
+  - first:
+      213: -7813822307174737619
+    second: knight_walk_6
+  - first:
+      213: 3293443542794386515
+    second: knight_walk_7
+  - first:
+      213: 4280852874565784181
+    second: knight_walk_8
+  - first:
+      213: -5596998993746220358
+    second: knight_walk_9
+  - first:
+      213: -4032765480735106176
+    second: knight_walk_10
+  - first:
+      213: 6258936368157692345
+    second: knight_walk_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: knight_walk_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 607
+        width: 121
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -36.5, y: -30.5}
+        - {x: -53.5, y: -27.5}
+        - {x: -57.5, y: 11.5}
+        - {x: -25.5, y: 33.5}
+        - {x: 8.5, y: 2.5}
+        - {x: 59.5, y: 19.5}
+        - {x: 30.5, y: -10.5}
+        - {x: -1.5, y: -23.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cca35f3bc756b10800000000000000
+      internalID: 1974121124027092057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_walk_1
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 608
+        width: 122
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -58, y: -26.5}
+        - {x: -55, y: 10.5}
+        - {x: -25, y: 32.5}
+        - {x: -3, y: 19.5}
+        - {x: 7, y: -0.5}
+        - {x: 61, y: 12.5}
+        - {x: -10, y: -27.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1951b39b89848eab0800000000000000
+      internalID: -4978649567278197359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_walk_2
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 609
+        width: 123
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -58.5, y: -26.5}
+        - {x: -56.5, y: 9.5}
+        - {x: -24.5, y: 32.5}
+        - {x: 8.5, y: 1.5}
+        - {x: 58.5, y: 10.5}
+        - {x: -9.5, y: -29.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a495592293ec3b0800000000000000
+      internalID: -5490388075020727693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_walk_3
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 607
+        width: 124
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -57, y: -23.5}
+        - {x: -59, y: 9.5}
+        - {x: -27, y: 32.5}
+        - {x: 9, y: 2.5}
+        - {x: 58, y: 4.5}
+        - {x: -11, y: -31.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a79a52a260b2f40800000000000000
+      internalID: 5704660131085122057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_walk_4
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 606
+        width: 123
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -59.5, y: -26}
+        - {x: -50.5, y: 17}
+        - {x: -23.5, y: 33}
+        - {x: 7.5, y: 1}
+        - {x: 57.5, y: 11}
+        - {x: -14.5, y: -29}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a718f8e30e644c9e0800000000000000
+      internalID: -1602077638500843142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_walk_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 456
+        width: 122
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -57, y: -21.5}
+        - {x: -52, y: 11.5}
+        - {x: -21, y: 33.5}
+        - {x: 8, y: 2.5}
+        - {x: 60, y: 15.5}
+        - {x: -16, y: -30.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01d34d4baa17a040800000000000000
+      internalID: 4658721662576087309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_walk_6
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 457
+        width: 121
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -55.5, y: -25.5}
+        - {x: -43.5, y: 18.5}
+        - {x: -21.5, y: 32.5}
+        - {x: 9.5, y: -1.5}
+        - {x: 58.5, y: 20.5}
+        - {x: 22.5, y: -14.5}
+        - {x: -16.5, y: -31.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2993d2d20abf8390800000000000000
+      internalID: -7813822307174737619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_walk_7
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 458
+        width: 122
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -58, y: -27.5}
+        - {x: -54, y: 10.5}
+        - {x: -23, y: 31.5}
+        - {x: 12, y: 1.5}
+        - {x: 58, y: 15.5}
+        - {x: 4, y: -23.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c3018e379a4bd20800000000000000
+      internalID: 3293443542794386515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_walk_8
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 459
+        width: 123
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -56.5, y: -25.5}
+        - {x: -57.5, y: 8.5}
+        - {x: -26.5, y: 32.5}
+        - {x: 6.5, y: -1.5}
+        - {x: 57.5, y: 9.5}
+        - {x: -16.5, y: -29.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572143c2205a86b30800000000000000
+      internalID: 4280852874565784181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_walk_9
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 457
+        width: 124
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -62, y: -26.5}
+        - {x: -58, y: 9.5}
+        - {x: -30, y: 31.5}
+        - {x: -11, y: 27.5}
+        - {x: 5, y: -1.5}
+        - {x: 60, y: 5.5}
+        - {x: -16, y: -28.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: abaa981c1177352b0800000000000000
+      internalID: -5596998993746220358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_walk_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 306
+        width: 123
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -33.5, y: -31}
+        - {x: -60.5, y: -25}
+        - {x: -56.5, y: 12}
+        - {x: -23.5, y: 32}
+        - {x: 8.5, y: -1}
+        - {x: 57.5, y: 12}
+        - {x: -12.5, y: -26}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b935a692db808c0800000000000000
+      internalID: -4032765480735106176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_walk_11
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 306
+        width: 122
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -59, y: -24.5}
+        - {x: -52, y: 15.5}
+        - {x: -25, y: 34.5}
+        - {x: -4, y: 22.5}
+        - {x: 10, y: -0.5}
+        - {x: 59, y: 16.5}
+        - {x: 17, y: -17.5}
+        - {x: -34, y: -32.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b110df27753cd650800000000000000
+      internalID: 6258936368157692345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
